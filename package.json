@@ -1,0 +1,35 @@
+{
+  "name": "aerogear-reflect-cordova",
+  "version": "0.0.1",
+  "description": "A helper to make plugin development on android easier",
+  "cordova": {
+    "id": "org.jboss.aerogear.cordova.android.reflect",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowpong/aerogear-reflect-cordova.git"
+  },
+  "keywords": [
+    "reflection",
+    "android",
+    "base",
+    "plugin",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "Erik Jan de Wit",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/snowpong/aerogear-reflect-cordova/issues"
+  },
+  "homepage": "https://github.com/snowpong/aerogear-reflect-cordova#readme"
+}
